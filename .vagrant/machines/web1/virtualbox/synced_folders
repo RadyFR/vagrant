@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Radi Franco/Desktop/Practica y parcial/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Radi Franco/Desktop/Practica y parcial","disabled":false,"__vagrantfile":true}}}
